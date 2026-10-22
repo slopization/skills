@@ -1,0 +1,7 @@
+interface:
+  display_name: "한국 맛집 찾기"
+  short_description: "공식 업무추진비의 반복 이용과 근접 보정으로 지역 맛집 후보 찾기"
+  default_prompt: "$korean-restaurant-finder 마포구 망원동의 반복 이용 식당을 공식 업무추진비 자료로 찾아줘."
+
+policy:
+  allow_implicit_invocation: true
